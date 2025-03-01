@@ -1,0 +1,27 @@
+# Binaries and executables
+*.exe
+*.out
+*.test
+
+# Go build and module files
+/go.work
+/go.work.sum
+/go.sum
+/go/pkg/
+/bin/
+/obj/
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# IDE/Editor-specific files
+.vscode/
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
