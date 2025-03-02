@@ -58,7 +58,7 @@ go run main.go
 4. Update Phone Number
 5. Update Email Address
 6. Delete Contact
-6. Exit
+7. Exit
 ```
 
 ###🧪 **Running Tests**
