@@ -9,7 +9,7 @@ It is designed as a foundation for future enhancements, keeping things simple wh
 
 ## 🚀 Features
 
-✅ Add, list, update, and delete contacts  
+✅ Add, view, update, and delete contacts  
 ✅ In-memory storage for quick access  
 ✅ Phone number and email validation  
 ✅ Fully interactive **CLI interface**  
@@ -50,13 +50,15 @@ go run main.go
 ```
 
 #### 🛠 **CLI Commands**
+
 ```sh
-1: Add a new contact
-2: List all contacts
-3: Update a contact’s phone number
-4: Update a contact’s email
-5: Delete a contact (with confirm)
-6: Exit the application
+1. List Contacts
+2. Add Contacts
+3. Get Contact By Name
+4. Update Phone Number
+5. Update Email Address
+6. Delete Contact
+6. Exit
 ```
 
 ###🧪 **Running Tests**
